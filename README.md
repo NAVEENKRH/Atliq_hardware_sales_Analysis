@@ -54,7 +54,7 @@ This Excel project presents a detailed analysis of AtliQ Hardware's sales and pr
 
 📸 Screenshot:  <img width="871" height="911" alt="image" src="https://github.com/user-attachments/assets/be87b98b-6586-45a0-9330-409d33489b50" />
 
-![Customer Report](path/to/customer_performance_image.png)
+![Customer Report](https://github.com/NAVEENKRH/Atliq_hardware_sales_Analysis/blob/main/Customer%20performence%20report.pdf)
 
 ---
 
@@ -66,7 +66,7 @@ This Excel project presents a detailed analysis of AtliQ Hardware's sales and pr
 
 📸 Screenshot:  <img width="1154" height="539" alt="image" src="https://github.com/user-attachments/assets/9d5e349c-2405-45ee-a52e-6c35aaeb952a" />
 
-![P&L YoY](path/to/pl_yoy_image.png)
+![P&L YoY](https://github.com/NAVEENKRH/Atliq_hardware_sales_Analysis/blob/main/P%20%26%20L%20year%20on%20Year.pdf)
 
 ---
 
@@ -78,7 +78,7 @@ This Excel project presents a detailed analysis of AtliQ Hardware's sales and pr
 
 📸 Screenshot:  <img width="1153" height="583" alt="image" src="https://github.com/user-attachments/assets/1688d05f-2950-4657-9c01-d8b3fab0fae1" />
 
-![P&L MoM](path/to/pl_mom_image.png)
+![P&L MoM](https://github.com/NAVEENKRH/Atliq_hardware_sales_Analysis/blob/main/P%20%26%20L%20MOM.pdf)
 
 ---
 
