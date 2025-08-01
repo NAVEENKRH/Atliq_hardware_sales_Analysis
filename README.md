@@ -103,7 +103,7 @@ This project solidified my ability to use Excel as a complete analytical tool—
 **Naveen Kumar H**  
 📍 Bengaluru, India  
 📧 naveekr466@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(Update with your actual link)*
+🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile])
 
 ---
 
