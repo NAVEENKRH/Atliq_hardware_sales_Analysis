@@ -1,4 +1,4 @@
-# Atliq_Hardware_Sales_Analysis
+# Atliq_Hardware_Sales_Analysis_SQL
 
 ## 📈 Sales and Profitability Insights for AtliQ Hardware
 
